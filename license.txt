@@ -1,0 +1,11 @@
+Model Information:
+* title:	MF DOOM mask
+* source:	https://sketchfab.com/3d-models/mf-doom-mask-a226e9c662dd463ab1e7cefdfe7a0c42
+* author:	Musgo One (https://sketchfab.com/musgo.one)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MF DOOM mask" (https://sketchfab.com/3d-models/mf-doom-mask-a226e9c662dd463ab1e7cefdfe7a0c42) by Musgo One (https://sketchfab.com/musgo.one) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
